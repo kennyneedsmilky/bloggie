@@ -80,6 +80,10 @@ ol, ul {
     color: #a52a2a;
 }
 
+.top-section {
+    padding-top: 4rem;
+}
+
 .under-construction {
     display:flex;
     align-items: center;
